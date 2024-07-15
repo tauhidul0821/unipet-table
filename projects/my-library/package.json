@@ -1,0 +1,11 @@
+{
+  "name": "my-library-unique-r3t3w4",
+  "version": "0.1.7",
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0",
+    "ng-zorro-antd": "^18.0.1",
+    "@angular/cdk": "^17.3.10"
+  },
+  "sideEffects": false
+}
